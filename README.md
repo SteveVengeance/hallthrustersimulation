@@ -1,5 +1,5 @@
 # hallthrustersimulation
-This is a code for Hall Thruster simulation using HallThruster.jl package.
+This is a code for Hall Thruster simulation using HallThruster.jl package. I have also added the code as a separate Julia file.
 
 Simulations of Hall Thruster (Honest John) Operating Parameters 
 One last thing I would like to achieve as well is to simulate what are the operational parameters of my Hall Thruster should it be ever brought to an orbit. I have used one of the packages available as an open-source solution for Hall Thruster simulation called HallThruster.jl [12].
