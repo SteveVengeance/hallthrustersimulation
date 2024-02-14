@@ -1,7 +1,7 @@
 # hallthrustersimulation
 This is a code for Hall Thruster simulation using HallThruster.jl package. I have also added the code as a separate Julia file.
 
-Simulations of Hall Thruster (Honest John) Operating Parameters 
+Simulations of Hall Thruster (called Red - renamed from Honest John) Operating Parameters 
 One last thing I would like to achieve as well is to simulate what are the operational parameters of my Hall Thruster should it be ever brought to an orbit. I have used one of the packages available as an open-source solution for Hall Thruster simulation called HallThruster.jl [12].
 
 I have used basic tutorial (obviously, I have modified parameters of the Thruster) and modified few aspects of the code to match my needs (added Thrust mean as well as Plot for Thrust simulations). You can find the code in Appendix A. One important aspect to know is that due to the lack of time I couldn’t add custom propellant thus I used Krypton as a main propellant for simulations.
